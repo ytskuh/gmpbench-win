@@ -12,8 +12,4 @@
 export PATH="/usr/bin"
 cd /gmpbench-0.2-bin
 ./runbench -n
-echo 'Press any key to exit'
-read -n 1
 exit
-
-
