@@ -1,1 +1,1 @@
-msys64\usr\bin\bash.exe
+@call msys64\usr\bin\bash.exe
